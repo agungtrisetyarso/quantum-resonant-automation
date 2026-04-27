@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (optional - you can keep small files)
+*.xlsx
+*.xls
+*.csv   # uncomment if you don't want to upload raw data
+
+# OS
+.DS_Store
+Thumbs.db
