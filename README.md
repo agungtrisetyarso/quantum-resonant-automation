@@ -1,4 +1,4 @@
-# Observation of Multi-Decadal Resonant Oscillations in Automation-Driven Labour–Capital Substitution
+# Fault-tolerant quantum simulation of multi-decadal resonant oscillations in automation-driven labour–capital substitution
 
 **Quantum-Inspired Resonant Dynamics**  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -6,7 +6,7 @@
 This repository contains all code, data analysis scripts, and notebooks for the paper:
 
 **Trisetyarso et al.** — *Observation of Multi-Decadal Resonant Oscillations in Automation-Driven Labour–Capital Substitution*  
-Submitted to *npj Quantum Information*
+Submitted to *npj Complexity*
 
 ## Key Results
 - First rigorous statistical demonstration of **multi-decadal resonant isoquant oscillations** in real macroeconomic data.
